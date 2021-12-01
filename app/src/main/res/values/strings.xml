@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jar Assignment</string>
+    <string name="tap_to_add">Tap to Add</string>
+    <string name="fun_with_shapes">Fun With Shapes</string>
+    <string name="unsplash">unSplash</string>
+    <string name="no_internet_connection">No Internet connection!</string>
+</resources>
